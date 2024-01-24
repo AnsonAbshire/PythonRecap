@@ -1,1 +1,4 @@
-.venv/
+myvenv/
+
+#the "/" means to ignore all subfolders and files below the mainfile ".venv"
+#when committing changes in python you have to put a message before committing
